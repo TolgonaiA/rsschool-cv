@@ -25,7 +25,7 @@ Experience
 
 Skills
 ------
-**Programming:** JS, git, HTML/CSS, SASS, Bootstarp, React, Redux, Express.js
+**Programming:** JS,HTML/CSS, git,  SASS, Bootstarp, React, Redux, Express.js
 
 **Languages:** Kyrgyz, English, Russian
 
